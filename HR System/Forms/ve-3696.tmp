@@ -1,0 +1,20 @@
+Public Class frmSpecialSched
+
+    Private Sub btnClose_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnClose.Click
+        Me.pnSearch.Visible = False
+        Me.pnAdd.Visible = True
+    End Sub
+
+    Private Sub btnSearch_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSearch.Click
+        Me.pnSearch.Visible = True
+        Me.pnAdd.Visible = False
+    End Sub
+
+    Private Sub btnCancel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCancel.Click
+        Me.pnAdd.Visible = False
+    End Sub
+
+    Private Sub btnAdd_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnAdd.Click
+        Me.pnAdd.Visible = True
+    End Sub
+End Class

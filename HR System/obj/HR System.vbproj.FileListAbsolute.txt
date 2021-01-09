@@ -1,0 +1,196 @@
+D:\My Applications\HR System\HR System\bin\Release\HR System.exe.manifest
+D:\My Applications\HR System\HR System\bin\Release\HR System.application
+D:\My Applications\HR System\HR System\bin\Release\HR System.exe
+D:\My Applications\HR System\HR System\bin\Release\HR System.pdb
+D:\My Applications\HR System\HR System\bin\Release\HR System.xml
+D:\My Applications\HR System\HR System\obj\Release\ResolveAssemblyReference.cache
+D:\My Applications\HR System\HR System\obj\Release\HR_System.crptTardiness.rpt
+D:\My Applications\HR System\HR System\obj\Release\HR_System.frmDailyTardinessMon.resources
+D:\My Applications\HR System\HR System\obj\Release\HR_System.frmReportTardiness.resources
+D:\My Applications\HR System\HR System\obj\Release\HR_System.frmSpecialSched.resources
+D:\My Applications\HR System\HR System\obj\Release\HR_System.Resources.resources
+D:\My Applications\HR System\HR System\obj\Release\HR System.vbproj.GenerateResource.Cache
+D:\My Applications\HR System\HR System\obj\Release\HR System.exe.manifest
+D:\My Applications\HR System\HR System\obj\Release\HR System.application
+D:\My Applications\HR System\HR System\obj\Release\HR System.exe
+D:\My Applications\HR System\HR System\obj\Release\HR System.xml
+D:\My Applications\HR System\HR System\obj\Release\HR System.pdb
+G:\HR System\HR System\obj\Debug\ResolveAssemblyReference.cache
+G:\HR System\HR System\obj\Debug\HR_System.crptTardiness.rpt
+G:\HR System\HR System\obj\Debug\HR_System.frmDailyTardinessMon.resources
+G:\HR System\HR System\obj\Debug\HR_System.frmReportTardiness.resources
+G:\HR System\HR System\obj\Debug\HR_System.frmSpecialSched.resources
+G:\HR System\HR System\obj\Debug\HR_System.Resources.resources
+G:\HR System\HR System\obj\Debug\HR System.vbproj.GenerateResource.Cache
+G:\HR System\HR System\obj\Debug\HR System.exe
+G:\HR System\HR System\obj\Debug\HR System.xml
+G:\HR System\HR System\obj\Debug\HR System.pdb
+D:\My Applications\HR System\HR System\obj\Debug\ResolveAssemblyReference.cache
+D:\My Applications\HR System\HR System\obj\Debug\HR_System.crptTardiness.rpt
+D:\My Applications\HR System\HR System\obj\Debug\HR_System.frmDailyTardinessMon.resources
+D:\My Applications\HR System\HR System\obj\Debug\HR_System.frmReportTardiness.resources
+D:\My Applications\HR System\HR System\obj\Debug\HR_System.frmSpecialSched.resources
+D:\My Applications\HR System\HR System\obj\Debug\HR_System.Resources.resources
+D:\My Applications\HR System\HR System\obj\Debug\HR System.vbproj.GenerateResource.Cache
+D:\My Applications\HR System\HR System\bin\Debug\HR System.exe.manifest
+D:\My Applications\HR System\HR System\bin\Debug\HR System.application
+D:\My Applications\HR System\HR System\bin\Debug\HR System.exe
+D:\My Applications\HR System\HR System\bin\Debug\HR System.pdb
+D:\My Applications\HR System\HR System\bin\Debug\HR System.xml
+D:\My Applications\HR System\HR System\obj\Debug\HR System.exe.manifest
+D:\My Applications\HR System\HR System\obj\Debug\HR System.application
+D:\My Applications\HR System\HR System\obj\Debug\HR System.exe
+D:\My Applications\HR System\HR System\obj\Debug\HR System.xml
+D:\My Applications\HR System\HR System\obj\Debug\HR System.pdb
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR System.exe
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR System.xml
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Debug\HR System.exe.manifest
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Debug\HR System.application
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Debug\HR System.exe
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Debug\HR System.xml
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.crptTardiness.rpt
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmDailyTardinessMon.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmMain.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmReportTardiness.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmSpecialSched.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.LogIn.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.Resources.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR System.vbproj.GenerateResource.Cache
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR System.exe.manifest
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR System.application
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmEmployeeInfo.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmWorkSchedule.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmWorkSchedEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmNonWorkingHoliday.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmNonWorkingHolidayEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmDailyTimeRecord.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmDailyTimeRecordEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.crptDTR.rpt
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmReportDTR.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmPrintDTR.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR System.exe
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR System.xml
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR System.pdb
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Release\HR System.exe.manifest
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Release\HR System.application
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Release\HR System.exe
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Release\HR System.pdb
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Release\HR System.xml
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.crptDTR.rpt
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.crptTardiness.rpt
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmReportDTR.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmDailyTimeRecordEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmDailyTimeRecord.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmEmployeeInfo.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmDailyTardinessMon.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmMain.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmNonWorkingHoliday.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmNonWorkingHolidayEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmPrintDTR.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmReportTardiness.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmSpecialSched.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmWorkSchedEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.frmWorkSchedule.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.LogIn.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR_System.Resources.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR System.vbproj.GenerateResource.Cache
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR System.exe.manifest
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Release\HR System.application
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmListEmployees.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\bin\Debug\HR System.pdb
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR System.pdb
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmReligion.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmPositions.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmPositionEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmDepartments.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmDepartmentEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmTrainings.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmEmployeeTrainings.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmTrainingEntry.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.crptEmployeeProfile.rpt
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmImportDTR.resources
+C:\Users\Silver Fury\Desktop\HR System\HR System\obj\Debug\HR_System.frmDatabase.resources
+J:\HR System\HR System\obj\Debug\HR System.exe
+J:\HR System\HR System\obj\Debug\HR System.xml
+J:\HR System\HR System\obj\Debug\HR System.pdb
+J:\HR System\HR System\bin\Debug\HR System.exe.manifest
+J:\HR System\HR System\bin\Debug\HR System.application
+J:\HR System\HR System\bin\Debug\HR System.exe
+J:\HR System\HR System\bin\Debug\HR System.pdb
+J:\HR System\HR System\bin\Debug\HR System.xml
+J:\HR System\HR System\obj\Debug\ResolveAssemblyReference.cache
+J:\HR System\HR System\obj\Debug\HR_System.crptDTR.rpt
+J:\HR System\HR System\obj\Debug\HR_System.crptEmployeeProfile.rpt
+J:\HR System\HR System\obj\Debug\HR_System.crptTardiness.rpt
+J:\HR System\HR System\obj\Debug\HR_System.frmReportDTR.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmDailyTimeRecordEntry.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmDailyTimeRecord.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmDatabase.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmDepartmentEntry.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmDepartments.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmEmployeeInfo.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmDailyTardinessMon.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmImportDTR.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmListEmployees.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmMain.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmNonWorkingHoliday.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmNonWorkingHolidayEntry.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmPositionEntry.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmPositions.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmPrintDTR.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmReligion.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmReportTardiness.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmSpecialSched.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmEmployeeTrainings.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmTrainingEntry.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmTrainings.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmWorkSchedEntry.resources
+J:\HR System\HR System\obj\Debug\HR_System.frmWorkSchedule.resources
+J:\HR System\HR System\obj\Debug\HR_System.LogIn.resources
+J:\HR System\HR System\obj\Debug\HR_System.Resources.resources
+J:\HR System\HR System\obj\Debug\HR System.vbproj.GenerateResource.Cache
+J:\HR System\HR System\obj\Debug\HR System.exe.manifest
+J:\HR System\HR System\obj\Debug\HR System.application
+C:\Users\MIS\Desktop\HR System\HR System\bin\Debug\HR System.exe.manifest
+C:\Users\MIS\Desktop\HR System\HR System\bin\Debug\HR System.application
+C:\Users\MIS\Desktop\HR System\HR System\bin\Debug\HR System.exe
+C:\Users\MIS\Desktop\HR System\HR System\bin\Debug\HR System.pdb
+C:\Users\MIS\Desktop\HR System\HR System\bin\Debug\HR System.xml
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.crptDTR.rpt
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.crptEmployeeProfile.rpt
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.crptTardiness.rpt
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmReportDTR.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmDailyTimeRecordEntry.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmDailyTimeRecord.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmDatabase.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmDepartmentEntry.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmDepartments.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmEmployeeInfo.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmDailyTardinessMon.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmImportDTR.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmListEmployees.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmMain.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmNonWorkingHoliday.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmNonWorkingHolidayEntry.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmPositionEntry.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmPositions.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmPrintDTR.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmReligion.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmReportTardiness.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmSpecialSched.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmEmployeeTrainings.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmTrainingEntry.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmTrainings.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmWorkSchedEntry.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.frmWorkSchedule.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.LogIn.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR_System.Resources.resources
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR System.vbproj.GenerateResource.Cache
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR System.exe.manifest
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR System.application
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR System.exe
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR System.xml
+C:\Users\MIS\Desktop\HR System\HR System\obj\Debug\HR System.pdb

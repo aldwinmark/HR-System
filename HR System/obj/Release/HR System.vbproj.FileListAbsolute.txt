@@ -1,0 +1,42 @@
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR System.exe
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR System.xml
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR System.pdb
+C:\Users\Silver\Desktop\HR System\HR System\bin\Release\HR System.exe.manifest
+C:\Users\Silver\Desktop\HR System\HR System\bin\Release\HR System.application
+C:\Users\Silver\Desktop\HR System\HR System\bin\Release\HR System.exe
+C:\Users\Silver\Desktop\HR System\HR System\bin\Release\HR System.pdb
+C:\Users\Silver\Desktop\HR System\HR System\bin\Release\HR System.xml
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmReportDTR.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmAddEmployee.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmBiometricSetting.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmDailyTimeRecordEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmDailyTimeRecord.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmDatabase.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmDepartmentEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmDepartments.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmEmployeeInfo.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmDailyTardinessMon.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmImportDTR.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmListEmployees.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmMain.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmNonWorkingHoliday.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmNonWorkingHolidayEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmPositionEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmPositions.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmPrintDTR.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmReligion.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmReportTardiness.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmShiftEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmSpecialSched.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmEmployeeTrainings.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmTrainingEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmTrainings.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmWorkSchedEntry.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.frmWorkSchedule.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.LogIn.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR_System.Resources.resources
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR System.exe.manifest
+C:\Users\Silver\Desktop\HR System\HR System\obj\Release\HR System.application
